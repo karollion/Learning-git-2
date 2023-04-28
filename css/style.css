@@ -25,3 +25,9 @@ header h2{
     text-align: center;
     font-style: italic;
 }
+
+/* footer */
+
+footer {
+    font-style: italic;
+}
